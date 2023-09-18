@@ -1,7 +1,7 @@
 export default [
    {
       title: '7-Segment Display Stopwatch',
-      imgUrl: '/assets/FPGA1.jpg',
+      imgUrl: '/assets/stopwatch.jpg',
       stack: ['FPGA: DE-10 Lite', 'Intel Quartus', 'Verilog HDL'],
       link: 'https://github.com/JNario31/FPGA-Stopwatch',
    },
