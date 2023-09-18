@@ -1,37 +1,33 @@
 export default [
    {
       year: 'Today',
-      title: 'YouTube Content Creator',
-      duration: '6 years',
+      title: 'Post-Secondary Studies',
+      duration: '3 years',
       details: 
-         'My humble attempt at building my version of the digital world one step at a time by documenting my coding journey and creating software engineering and computer science content to help those coming behind me.',
+         "My journey as an undergrad has been driven by passion. I have found genuine interest my studies, especially now that I am in my third year. Courses like digital logic design where I can tinker with hardware and verilog HDL, and my own personal projects like this website where I can learn about front-end design.",
    },
+
    {
-		year: 'Today',
-		title: 'Solo Indie Developer',
-		duration: '4 years',
-		details:
-			"I'm a solo indie developer building software for myself and clients to showcase on YouTube. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.",
-	},
+	year: '2021',
+	title: 'Graduated Highschool',
+	duration: '4 years',
+	details:
+		"This was the start of my journey into the world of computer engineering. After graduation this is when I knew what I wanted to pursue and have my addicted since.",
+},
+	
 	{
 		year: '2019',
-		title: 'Software Engineer',
-		duration: '2 years',
-		details:
-			'I helped build an enterprise application for a Fortune 500 company in an Agile team setting. Our tech stack consisted of TypeSciprt, Angular, Java, Gradle, and a handful of other languages and tools.',
-	},
-	{
-		year: '2018',
-		title: "Bachelor's Degree in Computer Science",
-		duration: '5 years',
-		details:
-			'I pursued the knowledge that a computer science degree had to offer. I learned about computer architecture, computer science theory, an array of programming, and aspects of artificial intelligence.',
-	},
-	{
-		year: '2013',
 		title: 'First Line of Code',
+		duration: 'foot in the door',
+		details:
+			"My first line of code was written in an introduction to computer science course in grade 10. We used scratch and I had built a simple platformer game. (It wasn't any good)",
+	},
+
+	{
+		year: '2017',
+		title: 'Built my First Computer',
 		duration: 'the beginning',
 		details:
-			"I wrote my first line of real code that started this journey into digital craftsmanship that I never could've imagined, especially as someone who never saw themselves as anything other than a blue collar worker.",
+			"Before heading into highschool I had built my first computer, this was the start of my journey.",
 	},
 ]
