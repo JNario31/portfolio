@@ -1,20 +1,27 @@
 export default [
    {
-      title: 'Terminal Website',
-      imgUrl: '/assets/terminal-website.jpg',
-      stack: ['HTML', 'CSS', 'JavaScript'],
-      link: 'https://fkcodes.com',
+      title: '7-Segment Display Stopwatch',
+      imgUrl: '/assets/FPGA1.jpg',
+      stack: ['FPGA: DE-10 Lite', 'Intel Quartus', 'Verilog HDL'],
+      link: 'https://github.com/JNario31/FPGA-Stopwatch',
    },
    {
-      title: 'Developer Portfolio',
-      imgUrl: '/assets/dev-portfolio.jpg',
+      title: '7-Segment Display Binary to Decimal',
+      imgUrl: '/assets/fpga2.jpg',
+      stack: ['FPGA: DE-10 Lite', 'Intel Quartus', 'Verilog HDL'],
+      link: 'https://github.com/JNario31/4bit-binary-to-decimal',
+   },
+   {
+      title: 'Version-1 Portfolio Website',
+      imgUrl: '/assets/Version1_website.jpg',
+      stack: ['HTML', 'CSS', 'Javascript'],
+      link: 'https://jnario31.github.io/Personal-Website2/',
+   },
+
+   {
+      title: 'Version-1 Portfolio Website',
+      imgUrl: '/assets/portfolioweb.jpg',
       stack: ['React', 'Tailwind', 'Vite'],
-      link: 'https://thehackershideout.com',
-   },
-   {
-      title: 'AI Nerf Gun',
-      imgUrl: '/assets/ai-nerf-gun.jpg',
-      stack: ['Python', 'C++', 'Robotics'],
-      link: 'https://youtu.be/A8eegxL82PI',
+      link: 'https://johnnportfolio.com/',
    },
 ]
