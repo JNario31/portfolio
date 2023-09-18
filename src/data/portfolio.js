@@ -19,9 +19,9 @@ export default [
    },
 
    {
-      title: 'Version-1 Portfolio Website',
+      title: 'Version-2 Portfolio Website',
       imgUrl: '/assets/portfolioweb.jpg',
       stack: ['React', 'Tailwind', 'Vite'],
-      link: 'https://johnnportfolio.com/',
+      link: 'https://github.com/JNario31/portfolio',
    },
 ]
