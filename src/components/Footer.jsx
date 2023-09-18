@@ -44,7 +44,7 @@ function Footer() {
 								</svg>
 							</a>
 							<a 
-								href="https://github.com/forrestknight"
+								href="https://github.com/JNario31"
 								className="bg-stone-400 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded-full">
 								<svg
 								xmlns="http://www.w3.org/2000/svg"
@@ -69,7 +69,7 @@ function Footer() {
 					</div>
 				</div>
 			<p className="text-sm mt-2  opacity-50">
-				&copy; {new Date().getFullYear()} Forrest Knight. All rights reserved.
+				&copy; {new Date().getFullYear()} John Nario. All rights reserved.
 			</p>
 		</div>
 	);
