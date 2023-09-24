@@ -7,7 +7,7 @@ export default [
    },
    {
       title: 'BCD to 7-Segment Display Converter',
-      imgUrl: '/assets/stopwatch.jpg',
+      imgUrl: '/assets/fpga2.jpg',
       stack: ['FPGA: DE-10 Lite', 'Intel Quartus', 'Verilog HDL', 'Digital Logic'],
       link: 'https://github.com/JNario31/BCD-7-Segment-Display',
    },
