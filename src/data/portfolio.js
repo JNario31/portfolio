@@ -6,6 +6,12 @@ export default [
       link: 'https://github.com/JNario31/FPGA-Stopwatch',
    },
    {
+      title: 'BCD to 7-Segment Display Converter',
+      imgUrl: '/assets/stopwatch.jpg',
+      stack: ['FPGA: DE-10 Lite', 'Intel Quartus', 'Verilog HDL', 'Digital Logic'],
+      link: 'https://github.com/JNario31/BCD-7-Segment-Display',
+   },
+   {
       title: '7-Segment Display Binary to Decimal',
       imgUrl: '/assets/fpga2.jpg',
       stack: ['FPGA: DE-10 Lite', 'Intel Quartus', 'Verilog HDL'],
