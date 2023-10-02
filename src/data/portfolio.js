@@ -1,5 +1,11 @@
 export default [
    {
+      title: 'Bouncing Square VGA Driver',
+      imgUrl: '/assets/giphy.mp4',
+      stack: ['FPGA: DE-10 Lite', 'Intel Quartus', 'Verilog HDL'],
+      link: 'https://github.com/JNario31/De-10-Lite-Bouncing-Square-VGA-Driver',
+   },
+   {
       title: '7-Segment Display Stopwatch',
       imgUrl: '/assets/stopwatch.jpg',
       stack: ['FPGA: DE-10 Lite', 'Intel Quartus', 'Verilog HDL'],
